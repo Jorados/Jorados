@@ -12,7 +12,6 @@
   ![QueryDsl](https://img.shields.io/static/v1?style=for-the-badge&message=QueryDsl&color=2496ED&&logo=QueryDsl&logoColor=FFFFFF&label=)
   ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
   ![Gradle](https://img.shields.io/static/v1?style=for-the-badge&message=Gradle&color=02303A&logo=Gradle&logoColor=FFFFFF&label=)
-  ![Maven](https://img.shields.io/static/v1?style=for-the-badge&message=Maven&color=B41717&label=)
   ![IntelliJ IDEA](https://img.shields.io/static/v1?style=for-the-badge&message=IntelliJ+IDEA&color=1572B6&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=)
   ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
   
