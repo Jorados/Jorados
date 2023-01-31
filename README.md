@@ -8,7 +8,6 @@
   ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
   ![JPA](https://img.shields.io/static/v1?style=for-the-badge&message=JPA&color=F05032&logo=JPA&logoColor=FFFFFF&label=)
   ![QueryDsl](https://img.shields.io/static/v1?style=for-the-badge&message=QueryDsl&color=2496ED&&logo=QueryDsl&logoColor=FFFFFF&label=)
-  ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
   ![Gradle](https://img.shields.io/static/v1?style=for-the-badge&message=Gradle&color=02303A&logo=Gradle&logoColor=FFFFFF&label=)
   ![IntelliJ IDEA](https://img.shields.io/static/v1?style=for-the-badge&message=IntelliJ+IDEA&color=1572B6&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=)
   
