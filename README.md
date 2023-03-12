@@ -23,3 +23,7 @@
   ### 👀 Management
   ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
   ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)   
+  
+  ### 👏 My Tech Vlog
+  <a href="https://velog.io/@sss_jinn"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zaman17"/></a>   
+  
