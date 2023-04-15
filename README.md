@@ -1,4 +1,9 @@
-<div align=center><h1>📚 STACKS</h1></div>
+<div><h1>😊 JO SEONG JIN</h1></div>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seongjin8860)](https://solved.ac/seongjin8860/)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=sss_jinn&color=dark)](https://velog.io/@sss_jinn)    
+
+<div><h1>📚 STACKS</h1></div>
 
   ### 👀 Language
   ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)   
@@ -23,7 +28,3 @@
   ### 👀 Management
   ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
   ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)   
-  
-  ### 👀 My Tech Vlog 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=sss_jinn&color=dark)](https://velog.io/@sss_jinn) 
-  
