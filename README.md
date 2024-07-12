@@ -1,7 +1,6 @@
 <div><h1>😊 JO SEONG JIN</h1></div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seongjin8860)](https://solved.ac/seongjin8860/)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=sss_jinn&color=dark)](https://velog.io/@sss_jinn)    
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seongjin8860)](https://solved.ac/seongjin8860/)  
 
 <div><h1>📚 STACKS</h1></div>
 
