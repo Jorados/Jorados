@@ -14,7 +14,6 @@
   ![JPA](https://img.shields.io/static/v1?style=for-the-badge&message=JPA&color=F05032&logo=JPA&logoColor=FFFFFF&label=)
   ![Gradle](https://img.shields.io/static/v1?style=for-the-badge&message=Gradle&color=02303A&logo=Gradle&logoColor=FFFFFF&label=)
   ![IntelliJ IDEA](https://img.shields.io/static/v1?style=for-the-badge&message=IntelliJ+IDEA&color=1572B6&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=)
-  ![VMware](https://img.shields.io/badge/VMware-%23ED8B00.svg?style=for-the-badge&logo=vmware&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   
   
